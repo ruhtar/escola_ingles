@@ -24,7 +24,7 @@ API que simula cadastro de alunos e turmas de uma escola de inglês. A aplicaç�
 
 ## Author Info
 
-- Twitter - [@http_ruhtar](https://twitter.com/http_ruhtar)
+- Twitter - [@arthur_https](https://twitter.com/http_ruhtar)
 - Linkedin - [Arthur Amorim](https://www.linkedin.com/in/arthur-amorim-bs/)
 
 [Back To The Top](#read-me-template)
