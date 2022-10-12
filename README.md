@@ -8,7 +8,7 @@
 
 ## Descrição
 
-API que simula cadastro de alunos e turmas de uma escola de inglês. A aplicação foi feita durante curso da Alura utilizando Node e o framework Express. O banco de dados relacional escolhido foi o MySQL e para facilitar a conexão e as operações, foi utilziado o ORM Sequelize. Além disso, o projeto foi organizado no modelo MVC. 
+API que simula cadastro de alunos e turmas de uma escola de inglês. A aplicação foi feita utilizando Node e o framework Express. O banco de dados relacional escolhido foi o MySQL e para facilitar a conexão e as operações, foi utilziado o ORM Sequelize. Além disso, o projeto foi organizado no modelo MVC. 
 
 #### Tecnologias
 
