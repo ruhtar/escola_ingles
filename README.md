@@ -2,7 +2,7 @@
 
 ![Project Image](https://blog.academiawashington.com.br/wp-content/uploads/2017/02/saiba-como-montar-uma-escola-de-ingles-com-pouco-dinheiro-1-1000x640.jpeg)
 
-> API desenvolvida durante curso da Alura.
+> Sistema de escola de inglês.
 
 ---
 
